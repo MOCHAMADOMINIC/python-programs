@@ -1,0 +1,3 @@
+
+
+def cipher(text,key)
